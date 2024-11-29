@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Currency_Service/1.0.0": {
+        "dependencies": {
+          "Embedded_Resource_Reader": "1.0.0"
+        },
+        "runtime": {
+          "Currency_Service.dll": {}
+        }
+      },
+      "Embedded_Resource_Reader/1.0.0": {
+        "runtime": {
+          "Embedded_Resource_Reader.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Currency_Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Embedded_Resource_Reader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

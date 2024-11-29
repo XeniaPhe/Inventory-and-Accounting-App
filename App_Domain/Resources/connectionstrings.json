@@ -1,0 +1,8 @@
+{
+  "ConnectionStrings": {
+    "SQLiteConnection": {
+      "ConnectionString": "Data Source={DatabasePath};",
+      "DatabaseName": "SaA.db"
+    }
+  }
+}

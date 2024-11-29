@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mtuna\\Desktop\\Programming Stuff\\WorkSpaces\\Visual Studio WorkSpace\\C#\\2022\\Accounting_and_Stock_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B9B4A7-FE86-40C0-BCBA-F13851FAC08A}|App_Domain\\App_Domain.csproj|c:\\users\\mtuna\\desktop\\programming stuff\\workspaces\\visual studio workspace\\c#\\2022\\accounting_and_stock_app\\app_domain\\dynamicquery\\querystrategy\\base\\selection strategy\\timeconstraineddynamicselectionstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B9B4A7-FE86-40C0-BCBA-F13851FAC08A}|App_Domain\\App_Domain.csproj|solutionrelative:app_domain\\dynamicquery\\querystrategy\\base\\selection strategy\\timeconstraineddynamicselectionstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 213,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimeConstrainedDynamicSelectionStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\mtuna\\Desktop\\Programming Stuff\\WorkSpaces\\Visual Studio WorkSpace\\C#\\2022\\Accounting_and_Stock_App\\App_Domain\\DynamicQuery\\QueryStrategy\\Base\\Selection Strategy\\TimeConstrainedDynamicSelectionStrategy.cs",
+              "RelativeDocumentMoniker": "App_Domain\\DynamicQuery\\QueryStrategy\\Base\\Selection Strategy\\TimeConstrainedDynamicSelectionStrategy.cs",
+              "ToolTip": "C:\\Users\\mtuna\\Desktop\\Programming Stuff\\WorkSpaces\\Visual Studio WorkSpace\\C#\\2022\\Accounting_and_Stock_App\\App_Domain\\DynamicQuery\\QueryStrategy\\Base\\Selection Strategy\\TimeConstrainedDynamicSelectionStrategy.cs",
+              "RelativeToolTip": "App_Domain\\DynamicQuery\\QueryStrategy\\Base\\Selection Strategy\\TimeConstrainedDynamicSelectionStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:15:33.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
